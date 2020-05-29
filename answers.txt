@@ -1,0 +1,4 @@
+1. 11 commits in total.
+2. Last commit was made 20.03.2018 14:21.
+3. Stopa was the author of those commits.
+4. There is no commit with the hash 790a2aa.
